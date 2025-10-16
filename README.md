@@ -1,4 +1,4 @@
-## IntelliCharge :- Smart Wireless Charging System for EVs 🚗⚡
+## IntelliCharge: Smart Wireless Charging System for EVs 🚗⚡
 A proof-of-concept project demonstrating a smart wireless EV charging system with an integrated Nextion HMI display and a companion Android application for a seamless, contactless experience.
 
 ## Core Concept:
@@ -7,7 +7,7 @@ IntelliCharge is designed to simplify the electric vehicle charging process. By 
 ## HMI Display (Android App):
 The core of the user interaction is the HMI Display Android application. This app serves as the central control panel, allowing users to manage their charging sessions remotely.
 
-## Payment Integration: This app includes a basic, proof-of-concept payment gateway. The workflow is designed to simulate a real-world EV charging transaction:
+## Payment Integration - This app includes a basic, proof-of-concept payment gateway. The workflow is designed to simulate a real-world EV charging transaction:
 1)Authorize Payment: Before a charging session begins, the user adds a payment method.
 2)Session Billing: Costs are calculated based on the duration of the charge.
 3)Secure Checkout: The transaction is completed securely within the app upon session completion.
@@ -27,13 +27,13 @@ The core of the user interaction is the HMI Display Android application. This ap
    Note: You may need to enable "Install from unknown sources" in your Android settings.
 
 ## Technology StackHardware: 
-Nextion HMI Display, Wireless Charging Coils, esp8266, IR Sensors, SG90 Servo Motor(Rotation), 24V SMPS
+Nextion HMI Display, Wireless Charging Coils, esp8266, IR Sensors, SG90 Servo Motor(for Coil Moving), 24V SMPS
 
 ## Software:
 Android Studio(for the mobile HMI), Firebase Realtime Database, Ardunio IDE
 
 ## Languages(for Android app): 
-JAVA, XML
+JAVA, XML, c++ (for esp8266)
 
 ## HMI Display (Android App) Screenshots:
 1)
