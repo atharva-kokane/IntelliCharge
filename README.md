@@ -7,12 +7,11 @@ IntelliCharge is designed to simplify the electric vehicle charging process. By 
 ## HMI Display (Android App):
 The core of the user interaction is the HMI Display Android application. This app serves as the central control panel, allowing users to manage their charging sessions remotely.
 
-## Payment Integration:
-This app includes a basic, proof-of-concept payment gateway. The workflow is designed to simulate a real-world EV charging transaction:
+## Payment Integration: This app includes a basic, proof-of-concept payment gateway. The workflow is designed to simulate a real-world EV charging transaction:
 1)Authorize Payment: Before a charging session begins, the user adds a payment method.
 2)Session Billing: Costs are calculated based on the duration of the charge.
 3)Secure Checkout: The transaction is completed securely within the app upon session completion.
-This feature demonstrates the integration of a monetization model into the user experience.
+   This feature demonstrates the integration of a monetization model into the user experience.
 
 ## Key Features:
 1)Remote Control: Start and stop charging sessions directly from your phone.
