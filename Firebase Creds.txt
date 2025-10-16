@@ -1,0 +1,3 @@
+RDB referance url - https://intellicharge-ddbe8-default-rtdb.asia-southeast1.firebasedatabase.app/
+
+Web API Key - AIzaSyDF7fgVmE5vlL7tCcLOnKihY7HrIUf-jEI
