@@ -8,10 +8,10 @@ IntelliCharge is designed to simplify the electric vehicle charging process. By 
 The core of the user interaction is the HMI Display Android application. This app serves as the central control panel, allowing users to manage their charging sessions remotely.
 
 ## Key Features:
-Remote Control: Start and stop charging sessions directly from your phone.
-Real-Time Monitoring: View live data, including charging status, battery level, and connection strength.
-contactless Experience: A completely digital interface for a modern and hygienic interaction. 
-Intuitive UI: A clean and simple design focused on ease of use. 
+-Remote Control: Start and stop charging sessions directly from your phone.
+-Real-Time Monitoring: View live data, including charging status, battery level, and connection strength.
+-contactless Experience: A completely digital interface for a modern and hygienic interaction. 
+-Intuitive UI: A clean and simple design focused on ease of use. 
 
 ## How to Get the AppYou can download and test the Android application by following these steps:
 1) Navigate to the Releases section of this repository.
